@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#controls {
+  position: absolute;
+  width: 20%;
+  top: 10px;
+  left: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#applyCameraChanges,
+#applyLightChanges {
+  margin: 10px;
+  background-color: rgb(168, 253, 168);
+}

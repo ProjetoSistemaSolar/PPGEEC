@@ -1,0 +1,20 @@
+{
+  "name": "AP2-computacao-grafica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^21.0.0",
+    "express": "^4.15.3",
+    "three": "^0.158.0",
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "devDependencies": {
+    "vite": "^5.0.2"
+  }
+}
