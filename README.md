@@ -4,7 +4,7 @@ Sejam bem-vindos ao projeto partíulas para PPGEEC ! Neste projeto será ultiliz
 Este é um projeto feito que utiliza as bibliotecas Three.js e Vite.js da linguagem Java Script</p>
 
 <h1>Visão Geral</h1>
-Este projeto visa demonstrar como desenhar uma cena em 3D com a formação da sigla PPGEEC a partir de particulas usando a biblioteca Three.js e Vite.js da linguagem Java Script</p>
+Este projeto visa demonstrar como desenhar uma cena em 3D com a formação da sigla PPGEEC a partir de particulas usando a biblioteca Three.js e Vite.js da linguagem Java Script.</p>
 Video de demonstração do projeto:
 <h1>Requisitos</h1>
 Este projeto requer um navegador da web compatível com a biblioteca Three.js e uma conexão com a internet para carregar as texturas sabendo que as texturas estão disponíveis nos caminhos especificados no código.
