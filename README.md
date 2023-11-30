@@ -3,8 +3,33 @@ Sejam bem-vindos ao projeto partíulas para PPGEEC ! Neste projeto será ultiliz
 <p>O código inclui controles para a posição da câmera e a direção da luz, proporcionando uma experiência visual dinâmica.
 <p>Este é um projeto feito que utiliza as bibliotecas Three.js e Vite.js da linguagem Java Script</p>
 
+<h1>Visão Geral</h1>
+Este projeto visa demonstrar como desenhar uma cena em 3D com a formação da sigla PPGEEC a partir de particulas usando a biblioteca Three.js e Vite.js da linguagem Java Script</p>
+Video de demonstração do projeto:
+<h1>Requisitos</h1>
+Este projeto requer um navegador da web compatível com a biblioteca Three.js e uma conexão com a internet para carregar as texturas sabendo que as texturas estão disponíveis nos caminhos especificados no código.
+<h1>Equipe responsável</h1>
+WENDEL ALVES<BR>
+GABRIEL ARAÚJO<BR>
+JOSÉ DARLYSON
+<h1>Guia de Uso</h1>
+Quer usar? Ok, então basta seguir estas etapas simples:
+<pre>
+<code>
+Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-<h3>Configuração</h3>
+Abra a pasta no Visual Studio Code
+cd seu-repositorio
+
+Instale as Dependências
+npm install
+
+Execute o Aplicativo no Servidor
+npm run dev
+</code>
+</pre>
+<h3>Configuração</h1>
 
 <p>Instale as dependências:</p>
 
