@@ -18,7 +18,7 @@ Video de demonstração do projeto:
 <h1>Requisitos</h1>
 Este projeto requer um navegador da web compatível com a biblioteca Three.js e uma conexão com a internet para carregar as texturas sabendo que as texturas estão disponíveis nos caminhos especificados no código.
 <h1>Equipe responsável</h1>
-FRANCISCO WENDEL ALVES RIBEIRO - 510424<BR>
+WENDEL ALVES<BR>
 GABRIEL ARAÚJO<BR>
 JOSÉ DARLYSON
 <h1>Guia de Uso</h1>
