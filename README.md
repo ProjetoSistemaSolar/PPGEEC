@@ -13,7 +13,7 @@ Imagens do Projeto:
 ![Captura de tela 2023-12-05 174215](https://github.com/ProjetoSistemaSolar/PPGEEC/assets/107087269/e0e0f8e5-0655-4995-b0ef-45dd6632854d)
 
 Video de demonstração do projeto:
-https://youtu.be/KdujSRu6hEE?si=UYBdYSmitQ68WDoj
+
 
 
 <h1>Requisitos</h1>
