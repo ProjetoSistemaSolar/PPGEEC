@@ -1,5 +1,5 @@
 <h1>AP2 - Animação  da Sigla PPGEEC</h1>
-Este projeto utiliza a biblioteca Three.js para criar um sistema de partículas 3D interativo da sigla PPGEEC. O código está escrito em JavaScript e oferece uma experiência visual dinâmica e atraente.cena!
+Este projeto utiliza a biblioteca Three.js e TweenMax.js para criar um sistema de partículas 3D interativo da sigla PPGEEC. O código está escrito em JavaScript e oferece uma experiência visual dinâmica e atraente.cena!
 <p>O código inclui controles para a posição da câmera, proporcionando uma experiência visual dinâmica.
 Este é um projeto que utiliza a biblioteca Three.js da linguagem Java Script</p>
 
@@ -8,12 +8,11 @@ Este é um projeto que utiliza a biblioteca Three.js da linguagem Java Script</p
 Este projeto visa demonstrar como desenhar uma cena em 3D com a formação da sigla PPGEEC a partir de particulas usando a biblioteca Three.js da linguagem Java Script.</p>
 
 Imagens do Projeto:
-![Captura de tela 2023-12-05 174306](https://github.com/ProjetoSistemaSolar/PPGEEC/assets/107087269/6229dc26-d17f-4774-afed-82e14477155c)
-
-![Captura de tela 2023-12-05 174215](https://github.com/ProjetoSistemaSolar/PPGEEC/assets/107087269/e0e0f8e5-0655-4995-b0ef-45dd6632854d)
+![Captura de tela 2023-12-07 164330](https://github.com/ProjetoSistemaSolar/PPGEEC/assets/107087269/046b4bac-24ee-4c8c-9dfa-908e7e63aa48)
 
 Video de demonstração do projeto:
 
+https://youtu.be/L7CTeL6L0Mk?feature=shared
 
 
 <h1>Requisitos</h1>
