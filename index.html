@@ -1,38 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <script type="module" src="./script.js"></script>
-    <link rel="stylesheet" href="style.css" />
-
-    <title>AP2 Computação Gráfica</title>
-  </head>
-  <body>
-    <div id="controls">
-      <h3>Controles</h3>
-      <label for="cameraX">Posição da Câmera X:</label>
-      <input type="text" id="cameraX" value="0" />
-      <br />
-      <label for="cameraY">Posição da Câmera Y:</label>
-      <input type="text" id="cameraY" value="30" />
-      <br />
-      <label for="cameraZ">Posição da Câmera Z:</label>
-      <input type="text" id="cameraZ" value="30" />
-      <br />
-      <button id="applyCameraChanges">Aplicar Alterações da Câmera</button>
-      <br />
-      <label for="lightX">Ângulo da Luz X:</label>
-      <input type="text" id="lightX" value="5" />
-      <br />
-      <label for="lightY">Ângulo da Luz Y:</label>
-      <input type="text" id="lightY" value="5" />
-      <br />
-      <label for="lightZ">Ângulo da Luz Z:</label>
-      <input type="text" id="lightZ" value="5" />
-      <br />
-      <button id="applyLightChanges">Aplicar Alterações da Luz</button>
-    </div>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <div class="triggers">
+    <span id="span1"  data-color="#3D8CD0">Config 1</span>
+    <span id="span2"   data-color="#D32A7B">Config 2</span>
+    <span id="span3"   data-color="#2AD37A">Config 3</span>
+  </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/605067/OrbitControls.js"></script>
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/605067/GeometryUtils.js"></script>
+<script src="./main.js"></script>
 </html>

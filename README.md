@@ -1,5 +1,5 @@
 <h1>AP2 - Animação  da Sigla PPGEEC</h1>
-Sejam bem-vindos ao projeto partíulas para PPGEEC ! Neste projeto será ultilizado o uso de tranformações geometricas e curvas para as definições dos elementos da sena, gerando partículas distintas a partir de modelos definidos por codificação ou a partir de ferramentas de modelagem como Blender e também permitindo aplicar efeitos de iluminação em cena!
+Este projeto utiliza a biblioteca Three.js para criar um sistema de partículas 3D interativo da sigla PPGEEC. O código está escrito em JavaScript e oferece uma experiência visual dinâmica e atraente.cena!
 <p>O código inclui controles para a posição da câmera e a direção da luz, proporcionando uma experiência visual dinâmica.
 Este é um projeto feito que utiliza as bibliotecas Three.js e Vite.js da linguagem Java Script</p>
 
